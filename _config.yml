@@ -23,7 +23,7 @@ email: merlijn.sebrechts@ugent.be
 description: >- # this means to ignore newlines until "baseurl:"
   IDLab DISCOVER team blog
   Ghent University - imec
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/discover.idlab.ugent.be" # the subpath of your site, e.g. /blog
 url: "https://discover.idlab.ugent.be" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  IBCNServices
