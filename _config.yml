@@ -29,7 +29,7 @@ url: "https://discover.idlab.ugent.be" # the base hostname & protocol for your s
 github_username:  IBCNServices
 
 # Build settings
-theme: minima
+theme: wowthemesnet/mundana-theme-jekyll
 plugins:
   - jekyll-feed
 
