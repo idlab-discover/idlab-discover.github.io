@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: IDLab-DISCOVER
+title: IDLab DISCOVER
 email: merlijn.sebrechts@ugent.be
 description: >- # this means to ignore newlines until "baseurl:"
   IDLab DISCOVER team blog
@@ -26,12 +26,26 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/discover.idlab.ugent.be" # the subpath of your site, e.g. /blog
 url: "https://discover.idlab.ugent.be" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  IBCNServices
-
+repository: idlab-discover
 # Build settings
-theme: chrjabs/Grape-Academic-Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
+
+layout: single
+  
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+      layout: single
+    values:
+      read_time: true
+
+atom_feed:
+  hide: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
