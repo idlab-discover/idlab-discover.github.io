@@ -1,0 +1,12 @@
+- title:
+  images:
+      #notes: this image must be a square
+    - link: /img/BrunoVolckaert.jpg
+      alt: The alt text for the image
+      description: |-
+        ### Bruno Volckaert
+
+        *Professor*
+
+        Professor advanced programming and software engineering in the Department of Information Technology (INTEC) at Ghent University and senior researcher at imec.
+      ratio: is-128by128
