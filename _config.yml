@@ -6,7 +6,7 @@ email: your-email@domain.com
 description: >
   The site for Ghent University's DISCOVER research group.
 baseurl: "/discover.idlab.ugent.be"
-url: "https://idlab-discover.github.io/discover.idlab.ugent.be/"
+url: "https://idlab-discover.github.io"
 permalink: pretty
 favicon: /img/favicon.ico
 #gh_sponsor: chrisrhymes
