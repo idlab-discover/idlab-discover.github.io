@@ -5,7 +5,7 @@ tagline: Ghent University research group
 email: your-email@domain.com
 description: >
   The site for Ghent University's DISCOVER research group.
-baseurl: ""
+baseurl: "/discover.idlab.ugent.be"
 url: "https://idlab-discover.github.io/discover.idlab.ugent.be/"
 permalink: pretty
 favicon: /img/favicon.ico
