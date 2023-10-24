@@ -6,7 +6,7 @@ email: merlijn.sebrechts@ugent.be
 description: >
   The site for Ghent University's DISCOVER research group.
 baseurl: ""
-url: "https://discover.idlab.ugent.be"
+url: ""
 permalink: pretty
 favicon: /img/favicon.ico
 #gh_sponsor: chrisrhymes
