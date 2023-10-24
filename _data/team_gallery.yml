@@ -1,12 +1,170 @@
-- title:
+- title: IDLab DISCOVER team members
   images:
-      #notes: this image must be a square
-    - link: /img/BrunoVolckaert.jpg
-      alt: The alt text for the image
+    # Professors
+    - link: /img/team/bruno-volckaert.jpg
+      alt: Bruno Volckaert
       description: |-
         ### Bruno Volckaert
 
         *Professor*
+        
+        <a href="https://orcid.org/0000-0003-0575-5894"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
 
-        Professor advanced programming and software engineering in the Department of Information Technology (INTEC) at Ghent University and senior researcher at imec.
+    - link: /img/team/filip-de-turck.jpg
+      alt: Filip De Turck
+      description: |-
+        ### Filip De Turck
+
+        *Professor*
+        
+        <a href="https://orcid.org/0000-0003-4824-1199"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    # Senior Researchers
+    - link: /img/team/gregory-van-seghbroeck.jpg
+      alt: Gregory Van Seghbroeck
+      description: |-
+        #### Gregory Van Seghbroeck
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0001-9459-7407"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/jerico-moeyersons.jpg
+      alt: Jerico Moeyersons
+      description: |-
+        ### Jerico Moeyersons
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0001-9494-3170"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/jeroen-van-der-hooft.jpg
+      alt: Jeroen van der Hooft
+      description: |-
+        ### Jeroen van der Hooft
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0002-9416-9661"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/jose-santos.png
+      alt: José Santos
+      description: |-
+        ### José Santos
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0002-6276-2057"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/merlijn-sebrechts.jpg
+      alt: Merlijn Sebrechts
+      description: |-
+        ### Merlijn Sebrechts
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0002-4093-7338"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/tim-wauters.jpg
+      alt: Tim Wauters
+      description: |-
+        ### Tim Wauters
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0003-2618-3311"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/tom-goethals.jpg
+      alt: Tom Goethals
+      description: |-
+        ### Tom Goethals
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0002-1332-2290"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+
+    # Software Engineers
+    - link: /img/team/jasper-vaneessen.jpg
+      alt: Jasper Vaneessen
+      description: |-
+        ### Jasper Vaneessen
+
+        *Software Engineer*
+        
+        <a href="https://orcid.org/0000-0003-3782-8525"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+
+      ratio: is-128by128
+
+    - link: /img/team/thomas-dupont.png
+      alt: Thomas Dupont
+      description: |-
+        ### Thomas Dupont
+
+        *Software Engineer*
+        
+        <a href="https://orcid.org/0000-0001-9431-4059"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+
+      ratio: is-128by128
+
+
+    # PhD Researchers
+    - link: /img/team/jordi-thijsman.jpg
+      alt: Jordi Thijsman
+      description: |-
+        ### Jordi Thijsman
+
+        *PhD Researcher*
+        
+        <a href="https://orcid.org/0009-0007-2333-7051"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/koen-luyten.jpg
+      alt: Koen Luyten
+      description: |-
+        ### Koen Luyten
+
+        *PhD Researcher*
+        
+        <a href="https://orcid.org/0000-0003-3070-0668"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/michiel-van-kenhove.jpg
+      alt: Michiel Van Kenhove
+      description: |-
+        ### Michiel Van Kenhove
+
+        *PhD Researcher*
+        
+        <a href="https://orcid.org/0000-0003-3623-2754"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+
+      ratio: is-128by128
+
+    - link: /img/team/miel-verkerken.png
+      alt: Miel Verkerken
+      description: |-
+        ### Miel Verkerken
+
+        *PhD Researcher*
+        
+        <a href="https://orcid.org/0000-0002-1781-900X"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+    - link: /img/team/sam-van-damme.jpg
+      alt: Sam Van Damme
+      description: |-
+        ### Sam Van Damme
+
+        *PhD Researcher*
+        
+        <a href="https://orcid.org/0000-0001-5398-7927"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+
       ratio: is-128by128
