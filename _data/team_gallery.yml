@@ -62,6 +62,26 @@
         <a href="https://orcid.org/0000-0002-6276-2057"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
       ratio: is-128by128
 
+    - link: /img/team/laurens-dhooge.webp
+      alt: Laurens D'hooge
+      description: |-
+        ### Laurens D'hooge
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0001-5086-6361"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+    - link: /img/team/maria-torres-vega.jpg
+      alt: Maria Torres Vega
+      description: |-
+        ### Maria Torres Vega
+
+        *Senior Researcher*
+        
+        <a href="https://orcid.org/0000-0002-5656-6607"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
     - link: /img/team/merlijn-sebrechts.jpg
       alt: Merlijn Sebrechts
       description: |-
@@ -105,6 +125,15 @@
 
       ratio: is-128by128
 
+    - link: /img/team/sander-borny.jpg
+      alt: Sander Borny
+      description: |-
+        ### Sander Borny
+
+        *Software Engineer*
+        
+      ratio: is-128by128
+
     - link: /img/team/thomas-dupont.png
       alt: Thomas Dupont
       description: |-
@@ -116,8 +145,28 @@
 
       ratio: is-128by128
 
+    - link: /img/team/wannes-kerckhove.jpg
+      alt: Wannes Kerckhove
+      description: |-
+        ### Wannes Kerckhove
+
+        *Software Engineer*
+        
+      ratio: is-128by128
+
 
     # PhD Researchers
+    - link: /img/team/javad-sameri.jpg
+      alt: Javad Sameri
+      description: |-
+        ### Javad Sameri
+
+        *PhD Researcher*
+        
+        <a href="https://orcid.org/0009-0005-0863-8134"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
+
     - link: /img/team/jordi-thijsman.jpg
       alt: Jordi Thijsman
       description: |-
@@ -158,6 +207,17 @@
         
         <a href="https://orcid.org/0000-0002-1781-900X"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
       ratio: is-128by128
+
+    - link: /img/team/pieter-moens.jpg
+      alt: Pieter Moens
+      description: |-
+        ### Pieter Moens
+
+        *PhD Researcher*
+        
+        <a href="https://orcid.org/0000-0003-2035-8766"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
     - link: /img/team/sam-van-damme.jpg
       alt: Sam Van Damme
       description: |-
@@ -166,5 +226,14 @@
         *PhD Researcher*
         
         <a href="https://orcid.org/0000-0001-5398-7927"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+
+      ratio: is-128by128
+
+    - link: /img/team/vincent-bracke.jpg
+      alt: Vincent Bracke
+      description: |-
+        ### Vincent Bracke
+
+        *PhD Researcher*
 
       ratio: is-128by128
