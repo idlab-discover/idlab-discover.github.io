@@ -5,7 +5,7 @@ tagline: Ghent University research group
 email: merlijn.sebrechts@ugent.be
 description: >
   The site for Ghent University's DISCOVER research group.
-baseurl: "/"
+baseurl: ""
 url: "https://discover.idlab.ugent.be"
 permalink: pretty
 favicon: /img/favicon.ico
