@@ -1,0 +1,15 @@
+style: is-light
+height: is-small
+items:
+  - title: Cloud to IoT
+    icon: fa-cloud-sun
+    description: >
+      Secure, trusted, and interconnected services from the cloud to the cyber-physical edge.
+  - title: Data
+    icon: fa-space-shuttle
+    description: >
+      End-to-end data engineering from observation to value. Enabling high-performance data collaborations in environments with complex ownership and granular permissions.
+  - title: AR & VR
+    icon: fa-helicopter
+    description: >
+      Autonomous drones, AI-assisted AR, and low-latency streaming. 
