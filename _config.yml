@@ -1,11 +1,11 @@
 # Site Settings
 lang: en
-title: DISCOVER
+title: IDLab DISCOVER
 tagline: Ghent University research group
-email: your-email@domain.com
+email: merlijn.sebrechts@ugent.be
 description: >
   The site for Ghent University's DISCOVER research group.
-baseurl: "/discover.idlab.ugent.be"
+baseurl: "/"
 url: "https://idlab-discover.github.io"
 permalink: pretty
 favicon: /img/favicon.ico
