@@ -1,7 +1,6 @@
 ---
 layout: default
-title: DISCOVER team research
-subtitle: Publications
+title: Our publications
 show_sidebar: false
 hide_hero: false
 ---
@@ -14,5 +13,3 @@ hide_hero: false
       height="100%"
       style="display: block;height: 850px;" >
 </iframe>
-
-

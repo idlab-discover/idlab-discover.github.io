@@ -4,12 +4,12 @@ items:
   - title: Cloud to IoT
     icon: fa-cloud-sun
     description: >
-      Secure, trusted, and interconnected services from the cloud to the cyber-physical edge.
+      Design and prototyping of secure, <b>trusted</b>, scalable and interconnected applications from the cloud to the <b>cyber-physical</b> edge.
   - title: Data
     icon: fa-space-shuttle
     description: >
-      End-to-end data engineering from observation to value. Enabling high-performance data collaborations in environments with complex ownership and granular permissions.
-  - title: AR & VR
+      Design and prototyping of highly scalable data processing pipelines in environments with <b>complex ownership</b> and permissions.
+  - title: AI applications
     icon: fa-helicopter
     description: >
-      Autonomous drones, AI-assisted AR, and low-latency streaming. 
+      AI-assisted AR/VR and low-latency streaming for <b>collaborative applications</b>. AI for real-world network <b>intrusion detection</b>.

@@ -1,4 +1,6 @@
-- name: Research
-  link: /research
+- name: Publications
+  link: /publications
 - name: Team
   link: /team/
+- name: Blog
+  link: /blog/
