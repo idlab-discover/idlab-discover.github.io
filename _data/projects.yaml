@@ -1,9 +1,17 @@
 - title: Project Spotlight
   images:
-    - link: https://via.placeholder.com/400x225
-      large_link: https://via.placeholder.com/1200x675
-      alt: The alt text for the image
-      description: The image description
+    - link: /img/projects/homelab.png
+      alt: Homelab
+      description: |
+        ## Homelab
+
+        Homelab is a fully furnished and functional house with extensive test facilities. Custom-built for testing smart home applications in a real living lab.
+                
+        * VR/AR applications,
+        * digital assistants,
+        * and home robots.
+
+        [Learn more](https://homelab.ilabt.imec.be/index.html) or [contact us](https://homelab.ilabt.imec.be/contact/) to see how Homelab can help you test your products.
       ratio: is-16by9
     - link: https://via.placeholder.com/400x300
       large_link: https://via.placeholder.com/1200x900
