@@ -4,16 +4,13 @@ title: IDLab DISCOVER
 tagline: Ghent University research group
 email: merlijn.sebrechts@ugent.be
 description: >
-  The site for Ghent University's DISCOVER research group.
+  IDLab's DISCOVER research group at Ghent University, in association with imec.
 baseurl: ""
 url: ""
 permalink: pretty
 favicon: /img/favicon.ico
-#gh_sponsor: chrisrhymes
-#hide_share_buttons: true
-#theme_color: '#eeeeee'
+hide_share_buttons: true
 fixed_navbar: top
-#direction: one of <ltr, rtl, auto>, default: ltr
 
 remote_theme: chrisrhymes/bulma-clean-theme
 
@@ -66,7 +63,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Merlijn Sebrechts"
       layout: post
       image: /img/776px-Logo_IDLab_TRANS.png
       show_sidebar: true
