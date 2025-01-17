@@ -21,6 +21,16 @@
         <a href="https://orcid.org/0000-0003-4824-1199"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
       ratio: is-128by128
 
+    - link: /img/team/femke-de-backere.jpg
+      alt: Femke De Backere
+      description: |-
+        ### Femke De Backere
+
+        *Professor*
+        
+        <a href="https://orcid.org/0000-0002-0768-4949"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
+      ratio: is-128by128
+
     # Senior Researchers
     - link: /img/team/gregory-van-seghbroeck.jpg
       alt: Gregory Van Seghbroeck
@@ -30,16 +40,6 @@
         *Senior Researcher*
         
         <a href="https://orcid.org/0000-0001-9459-7407"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
-      ratio: is-128by128
-
-    - link: /img/team/jerico-moeyersons.jpg
-      alt: Jerico Moeyersons
-      description: |-
-        ### Jerico Moeyersons
-
-        *Senior Researcher*
-        
-        <a href="https://orcid.org/0000-0001-9494-3170"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
       ratio: is-128by128
 
     - link: /img/team/jeroen-van-der-hooft.jpg
@@ -70,16 +70,6 @@
         *Senior Researcher*
         
         <a href="https://orcid.org/0000-0001-5086-6361"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
-      ratio: is-128by128
-
-    - link: /img/team/maria-torres-vega.jpg
-      alt: Maria Torres Vega
-      description: |-
-        ### Maria Torres Vega
-
-        *Senior Researcher*
-        
-        <a href="https://orcid.org/0000-0002-5656-6607"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
       ratio: is-128by128
 
     - link: /img/team/merlijn-sebrechts.jpg
@@ -131,8 +121,12 @@
         ### Sander Borny
 
         *Software Engineer*
+
+        <a href="https://orcid.org/0000-0002-7929-3699"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
         
       ratio: is-128by128
+
+      
 
     - link: /img/team/thomas-dupont.png
       alt: Thomas Dupont
@@ -151,6 +145,8 @@
         ### Wannes Kerckhove
 
         *Software Engineer*
+
+        <a href="https://orcid.org/0000-0002-6654-7805"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
         
       ratio: is-128by128
 
@@ -175,16 +171,6 @@
         *PhD Researcher*
         
         <a href="https://orcid.org/0009-0007-2333-7051"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
-      ratio: is-128by128
-
-    - link: /img/team/koen-luyten.jpg
-      alt: Koen Luyten
-      description: |-
-        ### Koen Luyten
-
-        *PhD Researcher*
-        
-        <a href="https://orcid.org/0000-0003-3070-0668"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
       ratio: is-128by128
 
     - link: /img/team/michiel-van-kenhove.jpg
@@ -235,5 +221,7 @@
         ### Vincent Bracke
 
         *PhD Researcher*
+
+        <a href="https://orcid.org/0000-0003-0913-6433"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png" width="24" height="24" /></a>
 
       ratio: is-128by128

@@ -1,3 +1,4 @@
+# https://www.csrhymes.com/bulma-clean-theme/docs/page-components/image-gallery/
 - title: Project Spotlight
   images:
     - link: /img/projects/homelab.png
@@ -12,32 +13,95 @@
         * and home robots.
 
         [Learn more](https://homelab.ilabt.imec.be/index.html) or [contact us](https://homelab.ilabt.imec.be/contact/) to see how Homelab can help you test your products.
-      ratio: is-16by9
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
-      alt: The alt text for the image
-      description: The image description
-      ratio: is-4by3
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
-      alt: The alt text for the image
-      description: |-
-        ### A title
+    - link: /img/projects/obelisk.png
+      alt: Obelisk
+      description: |
+        ## Obelisk
 
-        The *image* **description** can be longer and written in markdown too.
+        Battle-tested platform for scalable data-driven applications.
+        
+        Connect data producers and consumers with powerful APIs for ingesting, querying and streaming large amounts of data. End-to-end granular authorization and authentication builtin.
 
-        If you want to describe your image in more detail.
+        * [More information](https://idlab-discover.github.io/obelisk-next/)
+        * [See the code](https://github.com/idlab-discover/obelisk) or a [Live version](https://obelisk.ilabt.imec.be/)
+    - link: /img/projects/rustiflow.png
+      alt: RustiFlow
+      description: |
+        ## RustiFlow
 
-        * Item 1
-        * Item 2
-      ratio: is-4by3
-    - link: https://via.placeholder.com/800x450
-      alt: The alt text for the image
-      description: The image description
-    - link: https://via.placeholder.com/800x450
-      alt: The alt text for the image
-      description: The image description
-    - link: https://via.placeholder.com/800x450
-      alt: The alt text for the image
-      description: |-
-        The *image* **description**
+        High-performance feature extraction for network traffic.
+        
+        Uses Rust and eBPF to process high volumes of traffic with remarkable speed and throughput.
+
+        * Very high throughput
+        * Versatile Feature Sets
+        * Pcap File Support
+
+        [See the code](https://github.com/idlab-discover/RustiFlow).
+    - link: /img/projects/feather.png
+      alt: Feather
+      description: |
+        ## Feather
+
+        Kubernetes for tiny edge devices.
+
+        A lightweight Kubernetes-compatible container orchestrator supporting containers and MicroVMs.
+
+        * For low-resource devices
+        * Supports MicroVMs
+        * Edge-native networking
+
+        [See the code](https://github.com/idlab-discover/feather).
+    - link: /img/projects/cyber-physical-webassembly.png
+      alt: Cyber-Physical WebAssembly
+      description: |
+        ## Cyber-Physical WebAssembly
+
+        Lightweight containerization for IoT devices.
+
+        Standardized WASI interfaces to drive USB and I2C hardware from WebAssembly.
+
+        * Containerized device drivers
+        * On tiny microcontrollers 
+        * 2% latency & RAM overhead
+
+        [See the code](https://github.com/idlab-discover/usb-wasm).
+
+    - link: /img/projects/pacsoi.png
+      alt: PACSOI project
+      description: |
+        ## PACSOI
+
+        Enabling Solid for healthcare.
+
+        Healthcare ecosystems are siloed and data sharing is minimal. With Solid, we enable data sharing between healthcare applications to better support patients.
+
+        Partners:
+        * FAQIR Institute & Foundation
+        * AContrario, moveUP, Byteflies
+        * IDLab - Ghent University - imec
+
+    - link: /img/projects/diktyo.png
+      alt: Diktyo
+      description: |
+        ## Diktyo
+
+        Network-aware Kubernetes sheduling
+
+        This project enables Kubernetes to take application topology and network topology into account when sheduling applications. This reduces the network latency of microservice applications running in Kubernetes.
+        
+        [See the code](https://github.com/diktyo-io).
+
+    - link: /img/projects/nids.png
+      alt: Improved NIDS dataset
+      description: |
+        ## Improved NIDS datasets
+
+        Network Intrusion Detection datasets
+
+        More than 30 state-of-the-art network intrusion detection datasets with high quality. These include NSL-KDD, UNSW-NB15, the CIC-IDS collection (including the Distrinet updates) and the NF-IDS collection.
+        
+        [Get the data](https://www.kaggle.com/dhoogla/datasets).
+
+
+
